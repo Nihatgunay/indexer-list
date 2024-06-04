@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\ClassLibraryHelper1\ClassLibraryHelper1\bin\Debug\net8.0\ClassLibraryHelper1.deps.json
+C:\Users\Lenovo\source\repos\ClassLibraryHelper1\ClassLibraryHelper1\bin\Debug\net8.0\ClassLibraryHelper1.dll
+C:\Users\Lenovo\source\repos\ClassLibraryHelper1\ClassLibraryHelper1\bin\Debug\net8.0\ClassLibraryHelper1.pdb
+C:\Users\Lenovo\source\repos\ClassLibraryHelper1\ClassLibraryHelper1\obj\Debug\net8.0\ClassLibraryHelper1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ClassLibraryHelper1\ClassLibraryHelper1\obj\Debug\net8.0\ClassLibraryHelper1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ClassLibraryHelper1\ClassLibraryHelper1\obj\Debug\net8.0\ClassLibraryHelper1.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ClassLibraryHelper1\ClassLibraryHelper1\obj\Debug\net8.0\ClassLibraryHelper1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ClassLibraryHelper1\ClassLibraryHelper1\obj\Debug\net8.0\ClassLibraryHelper1.dll
+C:\Users\Lenovo\source\repos\ClassLibraryHelper1\ClassLibraryHelper1\obj\Debug\net8.0\refint\ClassLibraryHelper1.dll
+C:\Users\Lenovo\source\repos\ClassLibraryHelper1\ClassLibraryHelper1\obj\Debug\net8.0\ClassLibraryHelper1.pdb
+C:\Users\Lenovo\source\repos\ClassLibraryHelper1\ClassLibraryHelper1\obj\Debug\net8.0\ref\ClassLibraryHelper1.dll
